@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /*?source=pwa
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://www.breathebienetrenomade.fr/sitemap.xml
